@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Christian Oller</h1>
 <h3 align="center">Front-end Developer en Barcelona</h3>
 
-- Estoy trabajando en **Pukkas**
+- Estoy trabajando en **SM Sistemas Medioambientales**
 
 - 🌱 Estoy aprendiendo **Javascript, React**
 
