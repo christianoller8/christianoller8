@@ -2,7 +2,7 @@
 <h3 align="center">Front-end Developer en Barcelona</h3>
 
 
-- 🌱 Estoy aprendiendo **Javascript, React**
+- 🌱 Estoy aprendiendo **HTML5, CSS3, Javascript, Angular **
 
 
 - 📫 Escríbeme en **christianoller8@gmail.com**
