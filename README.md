@@ -4,6 +4,10 @@
 
 - 🌱 Estoy aprendiendo **HTML5, CSS3, Javascript, Angular **
 
+- <p align="center">
+  <img src="https://github.com/alexcamachogz/random_images/blob/main/alexcamachogz.png?raw=true" alt="banner that says Christian Oller - FullStack Developer">
+</p>
+
 
 - 📫 Escríbeme en **christianoller8@gmail.com**
 
