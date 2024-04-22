@@ -36,14 +36,14 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,ts,js,angular,astro" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,ts,js,angular,astro" />
   </a>
 </p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,php" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,notion" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,npm,figma,vscode,postman,notion" />
   </a>
 </p>
 
